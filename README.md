@@ -4,7 +4,7 @@
 
 Customer attrition remains a significant concern for telecom industry. This project analyzes customer churn by exploring customer demographics, service subscriptions, contract details, billing information, and customer feedback to identify the key factors influencing churn.
 
-Using **Excel** for data preprocessing and **Power BI** for data modeling, visualization, and interactive dashboards, the project provides actionable insights that help improve customer retention and business performance.
+This project utilizes **Excel** for data preparation and **Power BI** for creating interactive dashboards that help identify churn patterns and support data-driven business decisions.
 
 ---
 
@@ -96,7 +96,7 @@ The dashboard includes multiple interactive report pages covering:
 - Contract Type
 - Tenure Group
 - Internet Type
-- Phone Service
+- Phone Service & Internet Service
 - Referral Category
 - Population Category
 - Offer Distribution
@@ -117,7 +117,7 @@ Analyzes churn across:
 - Population Categories
 - Internet Services
 - Internet Types
-- Customer Cities
+- Customer Cities and Population category
 
 ---
 
@@ -191,42 +191,7 @@ Provides business recommendations to reduce churn through:
 
 ## 📷 Report/Dashboard Preview
 
-> Add dashboard screenshots in the **Images** folder and update the paths below.
- Open the attached Excel file: ```Product Information Cleaning and Transformation.Xlsx``` and ```Raw Data.xlsx```
-
-```
-Images/
-│── Executive Dashboard.png
-│── Descriptive Analysis.png
-│── Diagnostic Analysis.png
-│── Predictive Analysis.png
-│── Prescriptive Analysis.png
-```
-
----
-
-## 📁 Repository Structure
-
-```
-Telecom-Customer-Churn-Analysis/
-│
-├── Dataset/
-│   └── telecom_customer_churn.xlsx
-│
-├── Power BI/
-│   └── Telecom Customer Churn Analysis.pbix
-│
-├── Images/
-│   ├── Executive Dashboard.png
-│   ├── Descriptive Analysis.png
-│   ├── Diagnostic Analysis.png
-│   ├── Predictive Analysis.png
-│   └── Prescriptive Analysis.png
-│
-├── Project Report.pdf
-├── README.md
-└── LICENSE
-```
+Refer to the attached **PDF Document of Telecom customer churn anlysis** for the complete project documentation and **Visualisation Screenshot pdf of Telecom Customer Churn Analysis Using PowerBI** for the Power BI dashboard previews.
 
 ---
 
@@ -247,4 +212,21 @@ Telecom-Customer-Churn-Analysis/
 
 ---
 
-## ⭐ If you found this project useful, consider giving it a Star!
+## 📄 License
+
+This project is licensed under the **MIT License**. See the **LICENSE** file for complete license information.
+
+---
+
+## 🙏 Acknowledgements
+
+This project was completed as part of my Data Analytics learning journey.
+
+Special thanks to:
+
+- **Maven Analytics** for providing the Telecom Customer Churn dataset.
+- **Microsoft** for Excel and Power BI, which were used for data preprocessing, modeling, analysis, and visualization.
+- My instructors and mentors for their valuable guidance and support throughout the project.
+
+---
+
