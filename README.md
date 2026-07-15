@@ -1,0 +1,2 @@
+# Mini-Project-of-Telecom-Customer-Churn-Analysis-Using-Excel-and-PowerBI
+This project examines customer churn in the telecom industry by analyzing customer demographics, service usage, contract details, and billing information. The goal is to uncover the primary drivers of customer attrition, identify high-risk customer segments, and provide data-driven insights that support effective customer retention strategies.
