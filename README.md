@@ -206,7 +206,7 @@ Refer to the attached **PDF Document of Telecom customer churn anlysis** for the
 
 ## 👩‍💻 Author
 
-**Shanthini Murugan**
+**Shanthini**
 
 **Skills:** Excel • Power BI • Power Query • DAX 
 
