@@ -10,7 +10,8 @@ This project utilizes **Excel** for data preparation and **Power BI** for creati
 
 ## 🎯 Business Problem
 
-A telecom company is experiencing a high customer churn rate, resulting in reduced revenue and increased customer acquisition costs. The company needs to understand why customers leave and identify high-risk customer segments to implement effective retention strategies.
+A telecom company is experiencing a high customer churn rate, resulting in reduced revenue and increased customer acquisition costs. The company needs to understand why customers leave and identify high-risk customer segments to implement effective retention strategies. 
+   This project analyzes customer segments, contract types, tenure groups, referrals, marketing offers, phone and internet service usage, internet service types, subscription preferences, monthly charges, billing patterns, and population characteristics to identify the key drivers of churn and support data-driven customer retention strategies.
 
 ---
 
